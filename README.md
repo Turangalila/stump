@@ -9,7 +9,7 @@ Online sheet music editor.
 - WYSIWYG interface, with at least viewing the page format; 
 - Tool as fullest as possible elements of musical notation; 
 - Freedom for manipulation of graphic elements; 
-- Enable import MXML and MIDI; 
+- Enable import MusicXML 3.0 and MIDI; 
 - Export to PDF using the library [jsPDF] (https://github.com/MrRio/jsPDF). 
 
 ## Reason 
